@@ -19,11 +19,24 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7aaf391a-c72f-4429-8bfa-b8d867242516" name="Default Changelist" comment="Home Updated">
-      <change afterPath="$PROJECT_DIR$/images/banner-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
+    <list default="true" id="7aaf391a-c72f-4429-8bfa-b8d867242516" name="Default Changelist" comment="Nav-Bar Updated">
+      <change afterPath="$PROJECT_DIR$/js/bootstrap-4-navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/color-switcher-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/color-switcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/countdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/fakeLoader.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.counterup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.mixitup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/scrolltopcontrol.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/wow.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-4-navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-4-navbar.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +49,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -46,6 +60,9 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
   </component>
   <component name="ProjectId" id="1hMlb1Mv1veLlW1zr7jqBZ2hwJ5" />
   <component name="ProjectLevelVcsManager">
@@ -85,7 +102,8 @@
       <updated>1599828909859</updated>
       <workItem from="1599828911066" duration="995000" />
       <workItem from="1600156225455" duration="917000" />
-      <workItem from="1600261011282" duration="654000" />
+      <workItem from="1600261011282" duration="1263000" />
+      <workItem from="1600429615093" duration="812000" />
     </task>
     <task id="LOCAL-00001" summary="Synopsis Update">
       <created>1599829122137</created>
@@ -122,7 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600261372753</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Home Updated">
+      <created>1600261920395</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600261920395</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Nav-Bar Updated">
+      <created>1600261943401</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600261943401</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,24 +177,29 @@
     <MESSAGE value="Directory Created" />
     <MESSAGE value="Navbar Creation" />
     <MESSAGE value="Home Updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Home Updated" />
+    <MESSAGE value="Nav-Bar Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nav-Bar Updated" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="629" y="324" key="Github.Dialog.Accounts.Choose" timestamp="1600157129097">
+    <state x="629" y="324" key="Github.Dialog.Accounts.Choose" timestamp="1600262193953">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="629" y="324" key="Github.Dialog.Accounts.Choose/0.0.1536.824@0.0.1536.824" timestamp="1600157129097" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600261120892">
+    <state x="629" y="324" key="Github.Dialog.Accounts.Choose/0.0.1536.824@0.0.1536.824" timestamp="1600262193953" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600261952023">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600261120892" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600261952023" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600262188328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1600262188328" />
     <state x="0" y="0" width="1146" height="811" key="dock-window-1" timestamp="1600261671116">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="0" width="1146" height="811" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1600261671116" />
-    <state x="93" y="93" width="1350" height="638" key="dock-window-2" timestamp="1600156608681">
+    <state x="0" y="0" width="1146" height="811" key="dock-window-2" timestamp="1600262188342">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="93" y="93" width="1350" height="638" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1600156608681" />
+    <state x="0" y="0" width="1146" height="811" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1600262188342" />
   </component>
 </project>
