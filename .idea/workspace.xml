@@ -19,11 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7aaf391a-c72f-4429-8bfa-b8d867242516" name="Default Changelist" comment="Bootstrap and JavaScript Updated and Fonts and SVG Code">
+    <list default="true" id="7aaf391a-c72f-4429-8bfa-b8d867242516" name="Default Changelist" comment="Fake Loader and color swichwre and color switcher activity updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-4-navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-4-navbar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/color-switcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/color-switcher.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fakeLoader.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fakeLoader.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +92,9 @@
       <workItem from="1600156225455" duration="917000" />
       <workItem from="1600261011282" duration="1263000" />
       <workItem from="1600429615093" duration="1603000" />
-      <workItem from="1600620794687" duration="230000" />
+      <workItem from="1600620794687" duration="580000" />
+      <workItem from="1600665851137" duration="1262000" />
+      <workItem from="1600700186249" duration="45000" />
     </task>
     <task id="LOCAL-00001" summary="Synopsis Update">
       <created>1599829122137</created>
@@ -152,7 +152,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600430574764</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Color Switcher">
+      <created>1600621049587</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600621049587</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fake Loader and color swichwre and color switcher activity updated">
+      <created>1600621239186</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600621239186</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,17 +191,19 @@
     <MESSAGE value="Home Updated" />
     <MESSAGE value="Nav-Bar Updated" />
     <MESSAGE value="Bootstrap and JavaScript Updated and Fonts and SVG Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bootstrap and JavaScript Updated and Fonts and SVG Code" />
+    <MESSAGE value="Color Switcher" />
+    <MESSAGE value="Fake Loader and color swichwre and color switcher activity updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fake Loader and color swichwre and color switcher activity updated" />
   </component>
   <component name="WindowStateProjectService">
     <state x="629" y="324" key="Github.Dialog.Accounts.Choose" timestamp="1600430607661">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="629" y="324" key="Github.Dialog.Accounts.Choose/0.0.1536.824@0.0.1536.824" timestamp="1600430607661" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600430593042">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600621260306">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600430593042" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600621260306" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600262188328">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
