@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7aaf391a-c72f-4429-8bfa-b8d867242516" name="Default Changelist" comment="animate.css file upddated">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7aaf391a-c72f-4429-8bfa-b8d867242516" name="Default Changelist" comment="popup css code update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,6 +92,7 @@
       <workItem from="1600620794687" duration="580000" />
       <workItem from="1600665851137" duration="1262000" />
       <workItem from="1600700186249" duration="1889000" />
+      <workItem from="1600878206768" duration="873000" />
     </task>
     <task id="LOCAL-00001" summary="Synopsis Update">
       <created>1599829122137</created>
@@ -179,7 +178,28 @@
       <option name="project" value="LOCAL" />
       <updated>1600700474327</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="animate file upddated">
+      <created>1600878283646</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1600878283646</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fakeloader file update">
+      <created>1600878379031</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1600878379031</updated>
+    </task>
+    <task id="LOCAL-00015" summary="popup css code update">
+      <created>1600878469180</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1600878469180</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,17 +228,20 @@
     <MESSAGE value="Fake Loader and color swichwre and color switcher activity updated" />
     <MESSAGE value="fakeLoader.css file updated" />
     <MESSAGE value="animate.css file upddated" />
-    <option name="LAST_COMMIT_MESSAGE" value="animate.css file upddated" />
+    <MESSAGE value="animate file upddated" />
+    <MESSAGE value="fakeloader file update" />
+    <MESSAGE value="popup css code update" />
+    <option name="LAST_COMMIT_MESSAGE" value="popup css code update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="629" y="324" key="Github.Dialog.Accounts.Choose" timestamp="1600430607661">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="629" y="324" key="Github.Dialog.Accounts.Choose/0.0.1536.824@0.0.1536.824" timestamp="1600430607661" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600700491137">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600878481400">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600700491137" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600878481400" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600262188328">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
