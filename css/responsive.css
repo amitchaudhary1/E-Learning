@@ -1,0 +1,173 @@
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+}
+@media screen and (min-width: 992px) {
+
+}
+@media screen and (max-width: 991px) {
+
+}
+@media screen and (min-width: 1921px) {
+
+}
+@media screen and (max-width: 768px) {
+    .dropdown-toggle:after{
+        display: none
+    }
+    /******* Home One ******/
+    .btco-hover-menu .collapse ul ul,
+    .btco-hover-menu .collapse ul ul.dropdown-menu{
+        margin-left: 25px;
+        padding-top: 0;
+    }
+    .main-menu .sign-in{
+        margin-left: 0;
+        border-left: 0;
+    }
+    .main-menu .nav-item .btn-small{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .main-banner .overlay-text {
+        margin-top: 22%;
+    }
+    .main-banner .overlay-text h3{
+        font-size: 40px;
+    }
+    .main-banner .overlay-text .slider-feature ul li{
+        font-size: 14px;
+    }
+    .course-category-1x .left-image {
+        margin-bottom: 30px;
+    }
+    .course-category-1x .category-feature .single-feature {
+        margin-bottom: 30px;
+        padding: 0 30px;
+    }
+    .achive-goals-1x .single-goals {
+        margin-bottom: 30px;
+    }
+    .tesimonial-1x i.fas.fa-angle-right.slick-arrow{
+        right: 20%;
+    }
+    .tesimonial-1x i.fas.fa-angle-left.slick-arrow{
+        left: 20%;
+    }
+    .footer-section-1x .footer-top .footer-top-right .footer-social-link {
+        margin-bottom: 30px;
+    }
+    .footer-section-1x .footer-top .footer-top-left .single-link ul{
+        margin-bottom: 30px;
+        margin-top: 20px;
+    }
+    .footer-section-1x .footer-bottom ul li{
+        float: left;
+        margin-left: 0;
+        margin-right: 30px;
+    }
+    .footer-section-1x .footer-top .footer-top-left .footer-subscriber{
+        margin-top: 20px;
+    }
+    .footer-section-1x .footer-top {
+        padding-bottom: 55px;
+    }
+    .footer-section-1x .footer-top .footer-top-right .footer-social-link ul {
+        margin: 0 0 50px 0;
+        padding: 0;
+    }
+    /**************Home two **************/
+    .top-menu-1x .top-menu-right button{
+        float: left;
+        margin: 20px 0;
+    }
+    .top-menu-1x .top-menu-middle ul{
+        float: left;
+    }
+    .main-banner-2 .overlay-text {
+        margin-top: 46%;
+    }
+    .feature-1x {
+        margin-top: 100px;
+    }
+    /**************About Us **************/
+    .alertbox-1x .alert .close {
+        top: 20px;
+    }
+    .page-banner .overlay-text{
+        margin-top: 30%;
+    }
+    .about-us-2x .about-us-left {
+        margin-bottom: 50px;
+    }
+    .container-out {
+        margin-right: 0;
+    }
+    .event-speakers .single-speaker img{
+        width: 100%;
+    }
+    /************** Learning Path *******************/
+    .learning-path-banner .overlay-text {
+        margin-top: 13%;
+    }
+    .learning-path-feature-1x{
+        padding: 50px 0 20px 0;
+    }
+    .learning-path-feature-1x .single-feature{
+        margin-bottom: 30px;
+    }
+    .learning-path-2x ul li .single-path .media{
+        display: block;
+    }
+    .learning-path-2x ul li .single-path .media img {
+        max-width: 100%;
+    }
+    .learning-path-2x ul li .single-path .media .media-body {
+        padding: 30px 0 0 0;
+    }
+    /*************Course list*****************/
+    .course-header-1x .course-header-right .course-tab {
+        text-align: left;
+        margin-top: 30px;
+    }
+    .course-header-1x .course-grid-list .all-course-list .media{
+        display: block;
+    }
+    .course-header-1x .course-grid-list .all-course-list .media .media-left-image .hvrbox-layer_bottom{
+        max-width: 100%;
+    }
+    /*************Course One*****************/
+    .course-info-2x .course-info-middle{
+        padding: 0;
+    }
+    .course-info-2x .course-info-right, .course-info-2x .media-body{
+        padding: 30px 0 0 0;
+    }
+    .course-info-2x .course-info-left .media{
+        margin-bottom: 30px;
+    }
+    .course-details-1x .course-details-sidebar{
+        margin-top: 50px;
+    }
+    /*************Course Two*****************/
+    .single-course-banner .overlay-text{
+        margin-top: 22%;
+    }
+    .course-info-1x .course-info-middle{
+        padding: 30px 0;
+    }
+    .course-info-1x .course-info-right{
+        margin-top: 30px;
+    }
+    .course-learn-1x .course-learn-right {
+        margin: 30px 0 0 0;
+    }
+    .course-info-2x .course-info-middle{
+        padding: 0;
+    }
+    .course-info-2x .course-info-right {
+        margin-top: -30px;
+    }
+    /*****************Contact us********************/
+    .contact-us-1x .contact-address {
+        margin-top: 50px;
+    }
