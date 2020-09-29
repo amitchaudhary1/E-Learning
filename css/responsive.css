@@ -89,3 +89,85 @@
     .feature-1x {
         margin-top: 100px;
     }
+    /**************About Us **************/
+    .alertbox-1x .alert .close {
+        top: 20px;
+    }
+    .page-banner .overlay-text{
+        margin-top: 30%;
+    }
+    .about-us-2x .about-us-left {
+        margin-bottom: 50px;
+    }
+    .container-out {
+        margin-right: 0;
+    }
+    .event-speakers .single-speaker img{
+        width: 100%;
+    }
+    /************** Learning Path *******************/
+    .learning-path-banner .overlay-text {
+        margin-top: 13%;
+    }
+    .learning-path-feature-1x{
+        padding: 50px 0 20px 0;
+    }
+    .learning-path-feature-1x .single-feature{
+        margin-bottom: 30px;
+    }
+    .learning-path-2x ul li .single-path .media{
+        display: block;
+    }
+    .learning-path-2x ul li .single-path .media img {
+        max-width: 100%;
+    }
+    .learning-path-2x ul li .single-path .media .media-body {
+        padding: 30px 0 0 0;
+    }
+    /*************Course list*****************/
+    .course-header-1x .course-header-right .course-tab {
+        text-align: left;
+        margin-top: 30px;
+    }
+    .course-header-1x .course-grid-list .all-course-list .media{
+        display: block;
+    }
+    .course-header-1x .course-grid-list .all-course-list .media .media-left-image .hvrbox-layer_bottom{
+        max-width: 100%;
+    }
+    /*************Course One*****************/
+    .course-info-2x .course-info-middle{
+        padding: 0;
+    }
+    .course-info-2x .course-info-right, .course-info-2x .media-body{
+        padding: 30px 0 0 0;
+    }
+    .course-info-2x .course-info-left .media{
+        margin-bottom: 30px;
+    }
+    .course-details-1x .course-details-sidebar{
+        margin-top: 50px;
+    }
+    /*************Course Two*****************/
+    .single-course-banner .overlay-text{
+        margin-top: 22%;
+    }
+    .course-info-1x .course-info-middle{
+        padding: 30px 0;
+    }
+    .course-info-1x .course-info-right{
+        margin-top: 30px;
+    }
+    .course-learn-1x .course-learn-right {
+        margin: 30px 0 0 0;
+    }
+    .course-info-2x .course-info-middle{
+        padding: 0;
+    }
+    .course-info-2x .course-info-right {
+        margin-top: -30px;
+    }
+    /*****************Contact us********************/
+    .contact-us-1x .contact-address {
+        margin-top: 50px;
+    }

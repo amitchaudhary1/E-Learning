@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7aaf391a-c72f-4429-8bfa-b8d867242516" name="Default Changelist" comment="index page update">
+    <list default="true" id="7aaf391a-c72f-4429-8bfa-b8d867242516" name="Default Changelist" comment="responsive file update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,6 +96,7 @@
       <workItem from="1600700186249" duration="1889000" />
       <workItem from="1600878206768" duration="1600000" />
       <workItem from="1600962633586" duration="1013000" />
+      <workItem from="1601047490721" duration="943000" />
     </task>
     <task id="LOCAL-00001" summary="Synopsis Update">
       <created>1599829122137</created>
@@ -230,7 +231,28 @@
       <option name="project" value="LOCAL" />
       <updated>1600963031546</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="animate file update">
+      <created>1601047563801</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1601047563801</updated>
+    </task>
+    <task id="LOCAL-00021" summary="magnific file update">
+      <created>1601047683058</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1601047683058</updated>
+    </task>
+    <task id="LOCAL-00022" summary="responsive file update">
+      <created>1601047829263</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1601047829263</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,17 +286,20 @@
     <MESSAGE value="popup css code update" />
     <MESSAGE value="animate css code update" />
     <MESSAGE value="index page update" />
-    <option name="LAST_COMMIT_MESSAGE" value="index page update" />
+    <MESSAGE value="animate file update" />
+    <MESSAGE value="magnific file update" />
+    <MESSAGE value="responsive file update" />
+    <option name="LAST_COMMIT_MESSAGE" value="responsive file update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="629" y="324" key="Github.Dialog.Accounts.Choose" timestamp="1600430607661">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="629" y="324" key="Github.Dialog.Accounts.Choose/0.0.1536.824@0.0.1536.824" timestamp="1600430607661" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600963046902">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601047836324">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600963046902" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601047836324" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600262188328">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
