@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7aaf391a-c72f-4429-8bfa-b8d867242516" name="Default Changelist" comment="Animate css file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="7aaf391a-c72f-4429-8bfa-b8d867242516" name="Default Changelist" comment="Index Page First Look Complete">
+      <change afterPath="$PROJECT_DIR$/contact-us.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +31,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -103,7 +102,7 @@
       <workItem from="1601627552913" duration="4000" />
       <workItem from="1602945703109" duration="3231000" />
       <workItem from="1603010213714" duration="242000" />
-      <workItem from="1603423857765" duration="115000" />
+      <workItem from="1603423857765" duration="360000" />
     </task>
     <task id="LOCAL-00001" summary="Synopsis Update">
       <created>1599829122137</created>
@@ -294,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603423929667</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Index Page First Look Complete">
+      <created>1603424017862</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1603424017862</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,7 +340,8 @@
     <MESSAGE value="fakeloader file updated" />
     <MESSAGE value="animate file updated" />
     <MESSAGE value="Animate css file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Animate css file" />
+    <MESSAGE value="Index Page First Look Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Index Page First Look Complete" />
   </component>
   <component name="WindowStateProjectService">
     <state x="147" y="65" key="DiffContextDialog" timestamp="1602946141731">
