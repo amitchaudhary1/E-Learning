@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7aaf391a-c72f-4429-8bfa-b8d867242516" name="Default Changelist" comment="bootstrap third party library">
+    <list default="true" id="7aaf391a-c72f-4429-8bfa-b8d867242516" name="Default Changelist" comment="Animate css file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/animate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +103,7 @@
       <workItem from="1601627552913" duration="4000" />
       <workItem from="1602945703109" duration="3231000" />
       <workItem from="1603010213714" duration="242000" />
-      <workItem from="1603423857765" duration="55000" />
+      <workItem from="1603423857765" duration="115000" />
     </task>
     <task id="LOCAL-00001" summary="Synopsis Update">
       <created>1599829122137</created>
@@ -287,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602946033440</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Animate css file">
+      <created>1603423929667</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1603423929667</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,7 +333,8 @@
     <MESSAGE value="responsive file update" />
     <MESSAGE value="fakeloader file updated" />
     <MESSAGE value="animate file updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="animate file updated" />
+    <MESSAGE value="Animate css file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Animate css file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="147" y="65" key="DiffContextDialog" timestamp="1602946141731">
