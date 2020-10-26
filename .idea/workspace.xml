@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7aaf391a-c72f-4429-8bfa-b8d867242516" name="Default Changelist" comment="Index Page First Look Complete">
-      <change afterPath="$PROJECT_DIR$/contact-us.html" afterDir="false" />
+    <list default="true" id="7aaf391a-c72f-4429-8bfa-b8d867242516" name="Default Changelist" comment="Contact Us Page">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +102,9 @@
       <workItem from="1601627552913" duration="4000" />
       <workItem from="1602945703109" duration="3231000" />
       <workItem from="1603010213714" duration="242000" />
-      <workItem from="1603423857765" duration="360000" />
+      <workItem from="1603423857765" duration="995000" />
+      <workItem from="1603523883443" duration="92000" />
+      <workItem from="1603731512173" duration="819000" />
     </task>
     <task id="LOCAL-00001" summary="Synopsis Update">
       <created>1599829122137</created>
@@ -300,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603424017862</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Contact Us Page">
+      <created>1603424244435</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1603424244435</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,7 +350,8 @@
     <MESSAGE value="animate file updated" />
     <MESSAGE value="Animate css file" />
     <MESSAGE value="Index Page First Look Complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Index Page First Look Complete" />
+    <MESSAGE value="Contact Us Page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Contact Us Page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="147" y="65" key="DiffContextDialog" timestamp="1602946141731">
@@ -352,10 +362,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="629" y="324" key="Github.Dialog.Accounts.Choose/0.0.1536.824@0.0.1536.824" timestamp="1600430607661" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602946292353">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603424251710">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602946292353" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603424251710" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600262188328">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
