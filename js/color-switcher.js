@@ -1,7 +1,7 @@
 "use strict";
 
 var ColorSwitcher = (function() {
-
+    
     function initColorSwitcher(colorSheets) {
         var tempCon, colorSwitcher, controlBtn, colorSwitchs, linkHolderHtml, linkHolder;
 
@@ -10,7 +10,7 @@ var ColorSwitcher = (function() {
         }
 
         tempCon = document.createDocumentFragment();
-
+        
         colorSwitcher = document.createElement("div");
         colorSwitcher.classList.add("ColorSwitcher");
 
@@ -37,7 +37,7 @@ var ColorSwitcher = (function() {
                 colorSwitch.title = colorSheet.title;
                 colorSwitch.dataset.index = index;
                 colorSwitch.style.backgroundColor = colorSheet.color;
-
+                
                 colorSwitchs.appendChild(colorSwitch);
             }
         });

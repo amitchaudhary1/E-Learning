@@ -1,13 +1,13 @@
-@media screen and (min-width: 992px) and (max-width: 1199px) {
+@media screen and (min-width: 992px) and (max-width: 1199px) { 
 
 }
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 992px) { 
 
 }
-@media screen and (max-width: 991px) {
+@media screen and (max-width: 991px) { 
 
 }
-@media screen and (min-width: 1921px) {
+@media screen and (min-width: 1921px) { 
 
 }
 @media screen and (max-width: 768px) {
@@ -19,7 +19,7 @@
     .btco-hover-menu .collapse ul ul.dropdown-menu{
         margin-left: 25px;
         padding-top: 0;
-    }
+    } 
     .main-menu .sign-in{
         margin-left: 0;
         border-left: 0;
@@ -226,11 +226,11 @@
         padding: 0 0 100px 0;
     }
     .about-us-2x .about-us-left {
-        margin-bottom: 0;
+        margin-bottom: 0; 
     }
     .about-us-2x .with-video{
         margin-top: 50px;
-    }
+    }    
     .about-us-2x .about-us-right{
         margin-top: 50px;
         text-align: center;
@@ -305,10 +305,10 @@
         margin: 50px 0 0 0;
     }
 }
-@media screen and (max-width: 730px) {
+@media screen and (max-width: 730px) { 
 
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 480px) { 
     .alertbox-1x .alert .close {
         right: 10%;
     }
@@ -335,7 +335,7 @@
     }
     .learning-path-banner .overlay-text h3{
         font-size: 30px;
-    }
+    }    
     .learning-path-banner .overlay-text p{
         font-size: 15px;
     }
@@ -347,7 +347,7 @@
     }
     .page-banner .overlay-text {
         margin-top: 37%;
-    }
+    }    
     .learning-path-banner .overlay-text {
         margin-top: 15%;
     }
@@ -453,7 +453,7 @@
     .main-banner .overlay-text {
         margin-top: 35%;
     }
-    .main-banner .overlay-text h3 {
+     .main-banner .overlay-text h3 {
         font-size: 22px;
     }
     .main-banner .overlay-text p{
@@ -527,7 +527,7 @@
         display: none;
     }
     .comming-soon-banner .overlay-text .subscribe-form {
-        margin: 0 20px;
+       margin: 0 20px;
     }
     .sign-in-1x .sign-up-btn a.btn-small {
         margin-top: -74px;
@@ -589,7 +589,7 @@
 }
 
 @media print {
-    a[href]:after {
-        content: none !important;
-    }
+  a[href]:after {
+    content: none !important;
+  }
 }
