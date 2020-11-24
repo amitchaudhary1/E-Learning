@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7aaf391a-c72f-4429-8bfa-b8d867242516" name="Default Changelist" comment="responsive file update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7aaf391a-c72f-4429-8bfa-b8d867242516" name="Default Changelist" comment="Images Updated">
+      <change afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +31,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -63,6 +63,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Demo Website 1" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -97,6 +98,14 @@
       <workItem from="1600878206768" duration="1600000" />
       <workItem from="1600962633586" duration="1013000" />
       <workItem from="1601047490721" duration="943000" />
+      <workItem from="1601358991940" duration="856000" />
+      <workItem from="1601627552913" duration="4000" />
+      <workItem from="1602945703109" duration="3231000" />
+      <workItem from="1603010213714" duration="242000" />
+      <workItem from="1603423857765" duration="995000" />
+      <workItem from="1603523883443" duration="92000" />
+      <workItem from="1603731512173" duration="1657000" />
+      <workItem from="1604428426494" duration="53000" />
     </task>
     <task id="LOCAL-00001" summary="Synopsis Update">
       <created>1599829122137</created>
@@ -252,7 +261,63 @@
       <option name="project" value="LOCAL" />
       <updated>1601047829263</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="responsive file update">
+      <created>1601359037087</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1601359037087</updated>
+    </task>
+    <task id="LOCAL-00024" summary="fakeloader file updated">
+      <created>1601359131421</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1601359131421</updated>
+    </task>
+    <task id="LOCAL-00025" summary="animate file updated">
+      <created>1601359203500</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1601359203500</updated>
+    </task>
+    <task id="LOCAL-00026" summary="animate file updated">
+      <created>1602946033440</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1602946033440</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Animate css file">
+      <created>1603423929667</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1603423929667</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Index Page First Look Complete">
+      <created>1603424017862</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1603424017862</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Contact Us Page">
+      <created>1603424244435</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1603424244435</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Images Updated">
+      <created>1603732542061</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1603732542061</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,17 +354,27 @@
     <MESSAGE value="animate file update" />
     <MESSAGE value="magnific file update" />
     <MESSAGE value="responsive file update" />
-    <option name="LAST_COMMIT_MESSAGE" value="responsive file update" />
+    <MESSAGE value="fakeloader file updated" />
+    <MESSAGE value="animate file updated" />
+    <MESSAGE value="Animate css file" />
+    <MESSAGE value="Index Page First Look Complete" />
+    <MESSAGE value="Contact Us Page" />
+    <MESSAGE value="Images Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Images Updated" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="147" y="65" key="DiffContextDialog" timestamp="1602946141731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602946141731" />
     <state x="629" y="324" key="Github.Dialog.Accounts.Choose" timestamp="1600430607661">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="629" y="324" key="Github.Dialog.Accounts.Choose/0.0.1536.824@0.0.1536.824" timestamp="1600430607661" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601047836324">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603732577194">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601047836324" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603732577194" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600262188328">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -312,5 +387,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="0" width="1146" height="811" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1600262188342" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1603010223761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1603010223761" />
   </component>
 </project>
