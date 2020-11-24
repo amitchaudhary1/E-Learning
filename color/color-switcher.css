@@ -12,8 +12,8 @@
     background: #fff;
     border-radius: 0 3px 3px 0;
     box-shadow: 0 0 15px rgba(0,0,0,.15);
-    -webkit-transform: translateY(-75%);
-            transform: translateY(-75%);
+    -webkit-transform: translateY(-80%);
+            transform: translateY(-80%);
     -webkit-transition: left .2s;
     transition: left .2s;
 }
@@ -25,8 +25,8 @@
 .ColorSwitcher__control,
 .ColorSwitcher__switch {
     display: inline-block;
-    width: 20px;
-    height: 20px;
+    width: 40px;
+    height: 40px;
     padding: 0;
     border: 0;
     cursor: pointer;
