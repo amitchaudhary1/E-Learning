@@ -2,4 +2,4 @@
 E-Learning Portal 
 Hi there 👋 I am Anubhav Bhardwaj
 
-![Mini Project LOR letter](https://user-images.githubusercontent.com/47695045/98431249-9aadb700-20d9-11eb-8d1f-97ad248fb4a3.jpg)
+![Mini Project LOR letter](https://raw.githubusercontent.com/abd8126/E-Learning/master/08.12.2020_14.00.57_REC.png?token=AOUE6WECHTZ635X46377LWK73BZ2C)
